@@ -3,7 +3,7 @@ import OnlyPhotos from "@/app/components/home/1";
 // AOS
 import AOS from "aos";
 import "aos/dist/aos.css";
-import { Component, useEffect } from "react";
+import { useEffect } from "react";
 
 
 
